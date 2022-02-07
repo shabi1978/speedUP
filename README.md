@@ -1,6 +1,6 @@
 # speedUP
 
-Objective of this tool is to speedUP your app/api development in a smooth way. Being in IT industry as a developer we experienced lots of repetation work which takes lots of our precious time and lost of interest due to same kind of work hence we came up with an idea where you can do copy of your work with new values in minimal efforts and in a click.
+Objective of this tool is to speedUP your app/api development in a smooth way. Being in IT industry as a developer we experienced lots of repetative work which takes lots of our precious time and lost of interest due to same kind of work hence we devrloped a tool(speedUp.jar) using that you can generate a copy of your code with new values in minimal efforts and in a click.
 
 # Requirement
 
