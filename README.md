@@ -22,7 +22,7 @@ Step 6. Add your Git repo link in "gitPosConfiguration.yaml".
 
 Step 7. Add the key values in "posConfiguration.yaml" (on the Left side will be Old Values and on Right side will be New Values, separated by a colon: ). Kindly note- this will rename your files, file references and directory according to your input.
 
-Step 8. Go to into "C:\speedUP-main\speedUP-main", double click on SpeedUP.jar and  <b> wait for a few seconds. </b> the new directory will get generated according to destinationDirectoryPath which exists in "gitCredentials.yaml"
+Step 8. Go to into "C:\speedUP-main\speedUP-main", double click on SpeedUP.jar and  <b> wait for a few seconds. </b> The new directory will get generated according to destinationDirectoryPath which exists in "gitCredentials.yaml"
 
 
 
