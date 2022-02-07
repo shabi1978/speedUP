@@ -22,7 +22,7 @@ Step 6. Add your Git repo link in "gitPosConfiguration.yaml".
 
 Step 7. Add your values in "posConfiguration.yaml" which you want to replace with the existing one(LeftHand is Old Value and RightHand is New Value). Kindly take note it will rename your files, file reference and directory according to your input.
 
-Step 8. Go to into "C:\speedUP-main\speedUP-main" click on SpeedUP.jar and  <b> wait for few seconds </b> your new directory will generate according to destinationDirectoryPath which exist in "gitCredentials.yaml"
+Step 8. Go to into "C:\speedUP-main\speedUP-main" double click on SpeedUP.jar and  <b> wait for few seconds </b> your new directory will generate according to destinationDirectoryPath which exist in "gitCredentials.yaml"
 
 Enjoy and happy learning....!
 
