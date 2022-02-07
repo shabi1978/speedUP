@@ -16,16 +16,16 @@ Step 3. Copy "speedUP-main" in your C drive .
 
 Step 4. Go to into "C:\speedUP-main\speedUP-main\configuration".
 
-Step 5. Modify "gitCredentials.yaml" and add your Git credentials.
+Step 5. Enter your git credentials in "gitCredentials.yaml".
 
 Step 6. Add your Git repo link in "gitPosConfiguration.yaml".
 
-Step 7. Add the new values in "posConfiguration.yaml" which you want to replace the existing ones with.(on the Left side are Old Values and on Right side are New Values). Kindly note- this will rename your files, file reference and directory according to your input.
+Step 7. Add the key values in "posConfiguration.yaml" (on the Left side will be Old Values and on Right side will be New Values, separated by a colon: ). Kindly note- this will rename your files, file references and directory according to your input.
 
 Step 8. Go to into "C:\speedUP-main\speedUP-main", double click on SpeedUP.jar and  <b> wait for a few seconds. </b> the new directory will get generated according to destinationDirectoryPath which exists in "gitCredentials.yaml"
 
 
 
-Follow the above steps to generate a copy of code with new values from git and the same thing can be done in order to generate code from the local machine also after modify "C:\speedUP-main\speedUP-main\configuration\inputType.yaml" . Change form "gitFlag: yes" to "gitFlag: no" and add your local code path in "posConfiguration.yaml" instead of Git repo link.
+Follow the above steps to generate a copy of code with new values from git and the same thing can be done in order to generate code from the local machine also after modifying the file - "C:\speedUP-main\speedUP-main\configuration\inputType.yaml" . Change  "gitFlag: yes" to "gitFlag: no" and add your local code path in "posConfiguration.yaml" instead of Git repo link.
 
 Happy learning....!
